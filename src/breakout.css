@@ -1,0 +1,12 @@
+canvas {
+  width: 680px;
+  height: 540px;
+  margin: 20px;
+  font-size: 200;
+  background-color: black;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  border: 1px solid black;
+
+  box-shadow: 5px 5px #777;
+
+}
