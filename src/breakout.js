@@ -36,7 +36,7 @@ export default class Breakout {
     this.brickWidth = 94;
     this.brickHeight = 40;
     this.brickCols = 10;
-    this.brickRows = 9;
+    this.brickRows = 8;
     this.brickSpacing = 3;
     this.brickAlign1 = 12;
     this.brickAlign2 = 15;
